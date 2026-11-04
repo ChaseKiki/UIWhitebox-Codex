@@ -1,0 +1,26 @@
+# Unity caches / IDE output
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Bb]uild/
+[Bb]uilds/
+.vs/
+.idea/
+*.csproj
+*.sln
+*.user
+*.pidb
+*.pdb
+
+# User-specific generated data. Never publish screenshots, tasks or local paths.
+/Assets/Packages/UIWhiteboxTool/Editor/Data/
+/Assets/Packages/UIWhiteboxTool/Editor/Data.meta
+/Assets/Packages/UIWhiteboxTool/Generated/
+/Assets/Packages/UIWhiteboxTool/Generated.meta
+.codex/
+auth.json
+.env
+.env.*
+*.log

@@ -1,0 +1,7 @@
+{
+  "name": "UIWhiteboxTool.Editor",
+  "rootNamespace": "UIWhiteboxTool",
+  "references": ["Unity.TextMeshPro", "UnityEngine.UI"],
+  "includePlatforms": ["Editor"],
+  "autoReferenced": true
+}

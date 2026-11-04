@@ -1,0 +1,1 @@
+PASS 19 deterministic checks; editor assembly compilation passed. Unity batch smoke checks not executed: editor process did not initialize.
