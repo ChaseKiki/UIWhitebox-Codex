@@ -25,3 +25,20 @@ Business logic, business event bindings, transparent-image reconstruction, compl
 MIT licensed; preserve the copyright and complete license notice when distributing. See [LICENSE](LICENSE), [DISCLAIMER.md](DISCLAIMER.md) and [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). No affiliation with Unity or OpenAI is claimed.
 
 AI processing sends the image and task metadata through the authenticated official Codex CLI to its service. Use only assets you have permission to process. No user screenshots, fonts, credentials, CLI binary or model allowance are included. AI results and cropped resources require human review.
+
+## Optional support
+
+If this tool saves you repetitive work, you can support its continued maintenance on [Ko-fi](https://ko-fi.com/chasekiki) or through WeChat.
+
+**Support is entirely voluntary. All features and MIT license rights remain available whether or not you contribute. A tip does not purchase features, priority handling or guaranteed response times.** This is a personally maintained project; bug reports, documentation improvements and sharing your experience are equally appreciated.
+
+<details>
+<summary>WeChat appreciation code (click to expand)</summary>
+
+Scan using WeChat. Click the image to open the original.
+
+<a href="https://raw.githubusercontent.com/ChaseKiki/PSD2UGUI-Codex/main/docs/support/wechat-support.jpg"><img src="https://raw.githubusercontent.com/ChaseKiki/PSD2UGUI-Codex/main/docs/support/wechat-support.jpg" alt="ChaseKiki WeChat appreciation code" width="320"></a>
+
+</details>
+
+The repository's Sponsor button also links to [Ko-fi](https://ko-fi.com/chasekiki) and the [support page](docs/support/README.md).
